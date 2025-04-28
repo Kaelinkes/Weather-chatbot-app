@@ -1,2 +1,2 @@
 # Weather-chatbot-app
-An app that can dispay weather and has a chatbot so that we can ask questions about current or future weather predictions. This allows users to get information that they want instead of genral information provided by weater apps 
+A dynamic weather app that not only provides current and future weather predictions but also integrates a chatbot for a personalized experience. Users can interact with the chatbot to ask specific weather-related questions, offering a more tailored response compared to traditional weather apps that provide general information.
